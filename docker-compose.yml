@@ -13,8 +13,8 @@ services:
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: gonzalezj
-      POSTGRES_PASSWORD: Jesus556
+      POSTGRES_USER: lamasg
+      POSTGRES_PASSWORD: ramita1212
       POSTGRES_DB: Prueba
 
   adminer:
